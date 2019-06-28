@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Info_Margin_Start">50dp</dimen>
+    <dimen name="margin_left">50dp</dimen>
+    <dimen name="margin_top_1st">50dp</dimen>
+    <dimen name="margin_top_2nd">80dp</dimen>
+    <dimen name="margin_top_3rd">120dp</dimen>
+    <dimen name="margin_top_4th">150dp</dimen>
+    <dimen name="youtubeLogo_width">50dp</dimen>
+    <dimen name="yotubeLogo_height">83dp</dimen>
+    <dimen name="trailerButton_width">390dp</dimen>
+    
+    
+</resources>
